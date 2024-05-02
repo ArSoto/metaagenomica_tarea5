@@ -1,0 +1,160 @@
+67	Wnt signaling pathway (P00057)	306	1.6%	4.9%
+127	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	260	1.4%	4.2%
+123	Gonadotropin-releasing hormone receptor pathway (P06664)	225	1.2%	3.6%
+120	Integrin signalling pathway (P00034)	190	1.0%	3.1%
+24	CCKR signaling map (P06959)	171	0.9%	2.8%
+159	Angiogenesis (P00005)	170	0.9%	2.7%
+152	Cadherin signaling pathway (P00012)	163	0.9%	2.6%
+138	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	161	0.9%	2.6%
+93	PDGF signaling pathway (P00047)	146	0.8%	2.4%
+135	Huntington disease (P00029)	145	0.8%	2.3%
+146	EGF receptor signaling pathway (P00018)	138	0.7%	2.2%
+160	Alzheimer disease-presenilin pathway (P00004)	125	0.7%	2.0%
+143	FGF signaling pathway (P00021)	123	0.7%	2.0%
+137	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway (P00027)	122	0.7%	2.0%
+158	Apoptosis signaling pathway (P00006)	117	0.6%	1.9%
+96	Nicotinic acetylcholine receptor signaling pathway (P00044)	102	0.5%	1.6%
+73	TGF-beta signaling pathway (P00052)	101	0.5%	1.6%
+91	Parkinson disease (P00049)	98	0.5%	1.6%
+118	Interleukin signaling pathway (P00036)	95	0.5%	1.5%
+65	p53 pathway (P00059)	87	0.5%	1.4%
+71	T cell activation (P00053)	84	0.4%	1.4%
+148	Cytoskeletal regulation by Rho GTPase (P00016)	83	0.4%	1.3%
+145	Endothelin signaling pathway (P00019)	82	0.4%	1.3%
+80	Ras Pathway (P04393)	72	0.4%	1.2%
+154	B cell activation (P00010)	71	0.4%	1.1%
+68	VEGF signaling pathway (P00056)	69	0.4%	1.1%
+115	Metabotropic glutamate receptor group III pathway (P00039)	69	0.4%	1.1%
+131	5HT2 type receptor mediated signaling pathway (P04374)	68	0.4%	1.1%
+1	Alzheimer disease-amyloid secretase pathway (P00003)	66	0.4%	1.1%
+79	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	62	0.3%	1.0%
+84	Oxytocin receptor mediated signaling pathway (P04391)	60	0.3%	1.0%
+98	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	59	0.3%	1.0%
+97	Muscarinic acetylcholine receptor 2 and 4 signaling pathway (P00043)	59	0.3%	1.0%
+69	Transcription regulation by bZIP transcription factor (P00055)	58	0.3%	0.9%
+55	Ubiquitin proteasome pathway (P00060)	58	0.3%	0.9%
+43	Dopamine receptor mediated signaling pathway (P05912)	58	0.3%	0.9%
+70	Toll receptor signaling pathway (P00054)	57	0.3%	0.9%
+92	PI3 kinase pathway (P00048)	55	0.3%	0.9%
+94	Oxidative stress response (P00046)	54	0.3%	0.9%
+72	p53 pathway feedback loops 2 (P04398)	51	0.3%	0.8%
+132	5HT1 type receptor mediated signaling pathway (P04373)	48	0.3%	0.8%
+117	Ionotropic glutamate receptor pathway (P00037)	48	0.3%	0.8%
+126	Beta1 adrenergic receptor signaling pathway (P04377)	47	0.3%	0.8%
+124	Beta2 adrenergic receptor signaling pathway (P04378)	47	0.3%	0.8%
+102	Metabotropic glutamate receptor group II pathway (P00040)	47	0.3%	0.8%
+103	Histamine H1 receptor mediated signaling pathway (P04385)	46	0.2%	0.7%
+153	Blood coagulation (P00011)	45	0.2%	0.7%
+95	Notch signaling pathway (P00045)	44	0.2%	0.7%
+37	p38 MAPK pathway (P05918)	40	0.2%	0.6%
+141	General transcription regulation (P00023)	38	0.2%	0.6%
+136	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction (P00028)	38	0.2%	0.6%
+42	Enkephalin release (P05913)	37	0.2%	0.6%
+40	Opioid proenkephalin pathway (P05915)	37	0.2%	0.6%
+38	Opioid proopiomelanocortin pathway (P05917)	37	0.2%	0.6%
+18	GABA-B receptor II signaling (P05731)	37	0.2%	0.6%
+122	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	37	0.2%	0.6%
+44	Angiotensin II-stimulated signaling through G proteins and beta-arrestin (P05911)	36	0.2%	0.6%
+39	Opioid prodynorphin pathway (P05916)	36	0.2%	0.6%
+4	Nicotine pharmacodynamics pathway (P06587)	35	0.2%	0.6%
+155	Axon guidance mediated by netrin (P00009)	35	0.2%	0.6%
+128	5HT4 type receptor mediated signaling pathway (P04376)	35	0.2%	0.6%
+108	Cortocotropin releasing factor receptor signaling pathway (P04380)	34	0.2%	0.5%
+144	FAS signaling pathway (P00020)	33	0.2%	0.5%
+125	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade (P00032)	32	0.2%	0.5%
+3	Adrenaline and noradrenaline biosynthesis (P00001)	31	0.2%	0.5%
+83	De novo purine biosynthesis (P02738)	30	0.2%	0.5%
+17	Synaptic vesicle trafficking (P05734)	30	0.2%	0.5%
+147	DNA replication (P00017)	30	0.2%	0.5%
+129	Hypoxia response via HIF activation (P00030)	30	0.2%	0.5%
+121	Beta3 adrenergic receptor signaling pathway (P04379)	30	0.2%	0.5%
+119	Interferon-gamma signaling pathway (P00035)	30	0.2%	0.5%
+101	Histamine H2 receptor mediated signaling pathway (P04386)	27	0.1%	0.4%
+19	Endogenous cannabinoid signaling (P05730)	25	0.1%	0.4%
+156	Axon guidance mediated by Slit/Robo (P00008)	25	0.1%	0.4%
+100	Metabotropic glutamate receptor group I pathway (P00041)	25	0.1%	0.4%
+2	Alpha adrenergic receptor signaling pathway (P00002)	24	0.1%	0.4%
+74	p53 pathway by glucose deprivation (P04397)	22	0.1%	0.4%
+151	Cell cycle (P00013)	22	0.1%	0.4%
+157	Axon guidance mediated by semaphorins (P00007)	21	0.1%	0.3%
+133	5-Hydroxytryptamine degredation (P04372)	21	0.1%	0.3%
+140	Glycolysis (P00024)	20	0.1%	0.3%
+139	Hedgehog signaling pathway (P00025)	20	0.1%	0.3%
+77	Plasminogen activating cascade (P00050)	17	0.1%	0.3%
+130	5HT3 type receptor mediated signaling pathway (P04375)	17	0.1%	0.3%
+116	JAK/STAT signaling pathway (P00038)	17	0.1%	0.3%
+142	General transcription by RNA polymerase I (P00022)	15	0.1%	0.2%
+76	Vitamin D metabolism and pathway (P04396)	14	0.1%	0.2%
+81	De novo pyrimidine deoxyribonucleotide biosynthesis (P02739)	13	0.1%	0.2%
+64	De novo pyrimidine ribonucleotides biosythesis (P02740)	13	0.1%	0.2%
+58	Heme biosynthesis (P02746)	13	0.1%	0.2%
+23	Salvage pyrimidine ribonucleotides (P02775)	13	0.1%	0.2%
+150	Cholesterol biosynthesis (P00014)	13	0.1%	0.2%
+78	Vasopressin synthesis (P04395)	12	0.1%	0.2%
+27	Pyruvate metabolism (P02772)	12	0.1%	0.2%
+75	TCA cycle (P00051)	11	0.1%	0.2%
+60	Fructose galactose metabolism (P02744)	11	0.1%	0.2%
+28	Pyrimidine Metabolism (P02771)	11	0.1%	0.2%
+107	Androgen/estrogene/progesterone biosynthesis (P02727)	11	0.1%	0.2%
+149	Circadian clock system (P00015)	10	0.1%	0.2%
+36	Pentose phosphate pathway (P02762)	9	0.0%	0.1%
+86	Coenzyme A biosynthesis (P02736)	8	0.0%	0.1%
+61	Formyltetrahydrofolate biosynthesis (P02743)	8	0.0%	0.1%
+41	Nicotine degradation (P05914)	8	0.0%	0.1%
+82	P53 pathway feedback loops 1 (P04392)	7	0.0%	0.1%
+48	N-acetylglucosamine metabolism (P02756)	7	0.0%	0.1%
+32	2-arachidonoylglycerol biosynthesis (P05726)	7	0.0%	0.1%
+112	Adenine and hypoxanthine salvage pathway (P02723)	7	0.0%	0.1%
+66	mRNA splicing (P00058)	6	0.0%	0.1%
+52	Mannose metabolism (P02752)	6	0.0%	0.1%
+49	Methylmalonyl pathway (P02755)	6	0.0%	0.1%
+22	Serine glycine biosynthesis (P02776)	6	0.0%	0.1%
+106	Arginine biosynthesis (P02728)	6	0.0%	0.1%
+104	Gamma-aminobutyric acid synthesis (P04384)	6	0.0%	0.1%
+62	Tetrahydrofolate biosynthesis (P02742)	5	0.0%	0.1%
+35	Phenylethylamine degradation (P02766)	5	0.0%	0.1%
+33	Purine metabolism (P02769)	5	0.0%	0.1%
+114	ATP synthesis (P02721)	5	0.0%	0.1%
+90	Asparagine and aspartate biosynthesis (P02730)	4	0.0%	0.1%
+59	Glutamine glutamate conversion (P02745)	4	0.0%	0.1%
+57	Isoleucine biosynthesis (P02748)	4	0.0%	0.1%
+50	Methylcitrate cycle (P02754)	4	0.0%	0.1%
+47	O-antigen biosynthesis (P02757)	4	0.0%	0.1%
+46	Ornithine degradation (P02758)	4	0.0%	0.1%
+34	Proline biosynthesis (P02768)	4	0.0%	0.1%
+25	Salvage pyrimidine deoxyribonucleotides (P02774)	4	0.0%	0.1%
+21	Succinate to proprionate conversion (P02777)	4	0.0%	0.1%
+11	Vitamin B6 metabolism (P02787)	4	0.0%	0.1%
+10	Xanthine and guanine salvage pathway (P02788)	4	0.0%	0.1%
+105	Ascorbate degradation (P02729)	4	0.0%	0.1%
+56	Leucine biosynthesis (P02749)	3	0.0%	0.0%
+45	Pyridoxal-5-phosphate biosynthesis (P02759)	3	0.0%	0.0%
+26	S-adenosylmethionine biosynthesis (P02773)	3	0.0%	0.0%
+16	Thiamin metabolism (P02780)	3	0.0%	0.0%
+134	5-Hydroxytryptamine biosynthesis (P04371)	3	0.0%	0.0%
+12	Valine biosynthesis (P02785)	3	0.0%	0.0%
+113	Acetate utilization (P02722)	3	0.0%	0.0%
+109	Aminobutyrate degradation (P02726)	3	0.0%	0.0%
+9	BMP/activin signaling pathway-drosophila (P06211)	2	0.0%	0.0%
+8	DPP-SCW signaling pathway (P06212)	2	0.0%	0.0%
+89	Coenzyme A linked carnitine metabolism (P02732)	2	0.0%	0.0%
+88	Carnitine metabolism (P02733)	2	0.0%	0.0%
+7	DPP signaling pathway (P06213)	2	0.0%	0.0%
+6	SCW signaling pathway (P06216)	2	0.0%	0.0%
+63	Flavin biosynthesis (P02741)	2	0.0%	0.0%
+54	Lipoate_biosynthesis (P02750)	2	0.0%	0.0%
+51	Methionine biosynthesis (P02753)	2	0.0%	0.0%
+29	Pyridoxal phosphate salvage pathway (P02770)	2	0.0%	0.0%
+20	Sulfate assimilation (P02778)	2	0.0%	0.0%
+15	Threonine biosynthesis (P02781)	2	0.0%	0.0%
+14	Triacylglycerol metabolism (P02782)	2	0.0%	0.0%
+111	Alanine biosynthesis (P02724)	2	0.0%	0.0%
+99	Histamine synthesis (P04387)	1	0.0%	0.0%
+87	Cobalamin biosynthesis (P02735)	1	0.0%	0.0%
+85	Cysteine biosynthesis (P02737)	1	0.0%	0.0%
+5	Toll pathway-drosophila (P06217)	1	0.0%	0.0%
+53	Lysine biosynthesis (P02751)	1	0.0%	0.0%
+31	Anandamide degradation (P05728)	1	0.0%	0.0%
+30	Bupropion degradation (P05729)	1	0.0%	0.0%
+13	Tyrosine biosynthesis (P02784)	1	0.0%	0.0%
+110	Allantoin degradation (P02725)	1	0.0%	0.0%
